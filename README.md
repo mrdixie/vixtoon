@@ -1,2 +1,0 @@
-# vixtoon
-Discord Сервер
